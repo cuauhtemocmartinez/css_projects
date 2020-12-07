@@ -1,0 +1,135 @@
+/* * {
+    outline: 2px dotted red;
+} */
+#container{
+    width: 1050px;
+    height: 1070px;
+    background-color: lightslategray;
+    font-family: sans-serif;
+}
+#header{
+    width: 1050px;
+    height: 75px;
+    display: inline-block;
+    background-color:lightblue;
+    margin-bottom: 20px;
+}
+#header h1{
+    margin-left: 20px;
+    display: inline-block
+}
+#header h3{
+    display: inline-block;
+    margin-left: 540px;
+    margin-top: 5px;
+    vertical-align: middle;
+}
+.pic_about img{
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#about{
+    width: 584px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: ivory;
+}
+#about h3{
+    background-color: lightblue;
+    padding: 10px;
+    margin-top: 0px;
+    padding-left: 10px;
+}
+#about p{
+    margin-left: 10px;
+}
+.link{
+    margin-left: 10px;
+}
+
+}
+#center_body{
+    width: 1050px;
+    height: 600px;
+}
+.inner{
+    width: 320px;
+    height: 610px;
+    background-color: ivory;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.inner h3{
+    padding: 10px;
+    margin: 0px;
+    background-color: lightblue;
+}
+.inner p{
+    margin-left: 10px;
+}
+.inner h4{
+    background-color: lightblue;
+
+    padding: 10px;
+}
+.three_columns{
+    width: 320px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+.badge_image{
+    height: 150px;
+    width: 312px;
+    padding-left: 8px;
+}
+.badge_image img{
+    width: 40px;
+    height: 40px;
+    margin: 6px;
+}
+.button{
+    display: block;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+}
+#footer1{
+    width: 1050;
+    height: 50px;
+    margin-top: 20px;
+    background-color: lightblue;
+    padding-left: 350px;
+}
+#footer1 ul{
+    display: inline-block;
+}
+#footer1 li{
+    display: inline-block;
+    margin: 5px;
+}
+#footer2{
+    width: 1050;
+    height: 50px;
+    background-color:lightblue;
+    padding-left: 300px;
+}
+#footer2 ul{
+    display: inline-block;
+    margin-top: 0px;
+}
+#footer2 li{
+    display: inline-block;
+}
+#footer2 img{
+    width: 16px;
+    height: 16px;
+    margin-right: 2px;
+}
